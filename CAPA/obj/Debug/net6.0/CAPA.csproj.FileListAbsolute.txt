@@ -8,3 +8,13 @@ C:\Users\athul\source\repos\CAPA\obj\Debug\net6.0\CAPA.csproj.CoreCompileInputs.
 C:\Users\athul\source\repos\CAPA\obj\Debug\net6.0\CAPA.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\athul\source\repos\CAPA\obj\Debug\net6.0\CAPA.RazorAssemblyInfo.cache
 C:\Users\athul\source\repos\CAPA\obj\Debug\net6.0\CAPA.RazorAssemblyInfo.cs
+C:\Users\athul\source\repos\pranavsrikar123\Capa-Sports\CAPA\obj\Debug\net6.0\CAPA.csproj.AssemblyReference.cache
+C:\Users\athul\source\repos\pranavsrikar123\Capa-Sports\CAPA\obj\Debug\net6.0\CAPA.Properties.Resources.resources
+C:\Users\athul\source\repos\pranavsrikar123\Capa-Sports\CAPA\obj\Debug\net6.0\CAPA.csproj.GenerateResource.cache
+C:\Users\athul\source\repos\pranavsrikar123\Capa-Sports\CAPA\obj\Debug\net6.0\CAPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\athul\source\repos\pranavsrikar123\Capa-Sports\CAPA\obj\Debug\net6.0\CAPA.AssemblyInfoInputs.cache
+C:\Users\athul\source\repos\pranavsrikar123\Capa-Sports\CAPA\obj\Debug\net6.0\CAPA.AssemblyInfo.cs
+C:\Users\athul\source\repos\pranavsrikar123\Capa-Sports\CAPA\obj\Debug\net6.0\CAPA.csproj.CoreCompileInputs.cache
+C:\Users\athul\source\repos\pranavsrikar123\Capa-Sports\CAPA\obj\Debug\net6.0\CAPA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\athul\source\repos\pranavsrikar123\Capa-Sports\CAPA\obj\Debug\net6.0\CAPA.RazorAssemblyInfo.cache
+C:\Users\athul\source\repos\pranavsrikar123\Capa-Sports\CAPA\obj\Debug\net6.0\CAPA.RazorAssemblyInfo.cs

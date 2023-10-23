@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\athul\\source\\repos\\CAPA\\CAPA.csproj",
+      "projectUniqueName": "C:\\Users\\athul\\source\\repos\\pranavsrikar123\\Capa-Sports\\CAPA\\CAPA.csproj",
       "projectName": "CAPA",
-      "projectPath": "C:\\Users\\athul\\source\\repos\\CAPA\\CAPA.csproj",
+      "projectPath": "C:\\Users\\athul\\source\\repos\\pranavsrikar123\\Capa-Sports\\CAPA\\CAPA.csproj",
       "packagesPath": "C:\\Users\\athul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\athul\\source\\repos\\CAPA\\obj\\",
+      "outputPath": "C:\\Users\\athul\\source\\repos\\pranavsrikar123\\Capa-Sports\\CAPA\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\athul\\AppData\\Roaming\\NuGet\\NuGet.Config",
