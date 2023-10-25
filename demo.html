@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <style>
+        body {
+            background-image: url('kids.jpg'); /* Add the URL of your background image here */
+            background-size: cover;
+            background-position: center;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .login-container {
+            background: rgba(255, 255, 255, 0.8); /* Background color for the form container */
+            border: 1px solid #ccc;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            width: 300px;
+            text-align: center;
+        }
+
+        .login-container h2 {
+            margin: 0;
+            padding: 0;
+        }
+
+        .login-container input {
+            width: 100%;
+            padding: 10px;
+            margin: 8px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        .login-container button {
+            background-color: #007BFF;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .new-user-link {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="login-container">
+        <h2>Login</h2>
+        <form>
+            <input type="email" placeholder="Email" required>
+            <input type="password" placeholder="Password" required>
+            <button type="submit">Login</button>
+        </form>
+        <p class="new-user-link">
+            New User? <a href="#">Sign Up</a>
+        </p>
+    </div>
+</body>
+</html>

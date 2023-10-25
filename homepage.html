@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home Page</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <!-- Add any additional CSS styles or libraries as needed -->
+    <style>
+        .push-to-bottom {
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+
+        /* Center align the navigation content */
+        .navigation-container {
+            display: flex;
+            justify-content: center;
+        }
+
+        .navigation-item {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container text-center" style="background-color: black;">
+        <img src="app-logo.png" alt="App Logo" width="200">
+    </div>
+    
+    
+    <div class="container mt-4">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2>Select a Sport</h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-2 text-center">
+                <i class="fas fa-futbol"></i> <!-- Football icon -->
+                <p>Football</p>
+            </div>
+            <div class="col-2 text-center">
+                <i class="fas fa-basketball-ball"></i> <!-- Basketball icon -->
+                <p>Basketball</p>
+            </div>
+            <div class="col-2 text-center">
+                <i class="fas fa-volleyball"></i> <!-- Baseball icon -->
+                <p>Baseball</p>
+            </div>
+            <div class="col-2 text-center">
+                <i class="fas fa-badminton"></i> <!-- Hockey icon -->
+                <p>Hockey</p>
+            </div>
+            <div class="col-2 text-center">
+                <i class="fas fa-table-tennis"></i> <!-- Table Tennis icon -->
+                <p>Table Tennis</p>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Start of Navigation Section -->
+    <div class="container mt-4 push-to-bottom">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2>Navigation</h2>
+            </div>
+        </div>
+        <div class="row navigation-container"> <!-- Center align the navigation content -->
+            <div class="col-2 text-center navigation-item">
+                <i class="fas fa-home"></i> <!-- Home icon -->
+                <p>Home</p>
+            </div>
+            <div class="col-2 text-center navigation-item">
+                <i class="fas fa-newspaper"></i> <!-- News icon -->
+                <p>News</p>
+            </div>
+            <div class "col-2 text-center navigation-item">
+                <i class="fas fa-list-ol"></i> <!-- Standings icon -->
+                <p>Standings</p>
+            </div>
+            <div class="col-2 text-center navigation-item">
+                <i class="fas fa-calendar-alt"></i> <!-- Calendar icon -->
+                <p>Calendar</p>
+            </div>
+            <div class="col-2 text-center navigation-item">
+                <i class="fas fa-trophy"></i> <!-- Scores icon -->
+                <p>Scores</p>
+            </div>
+        </div>
+    </div>
+    <!-- End of Navigation Section -->
+</body>
+</html>
